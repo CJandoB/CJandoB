@@ -1,16 +1,30 @@
-## Hi there 👋
+# *Hi! I am Alejandro*
 
-<!--
-**CJandoB/CJandoB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+I am a Computer Engineer at Universidad Politécnica de Madrid (UPM) - ETSISI. I'm Passionate about embedded systems, and computer architectures. Willing to learn more about technology!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<h3 align="center">Tech Stack</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,bash,mysql,docker,git,github,gitlab" />
+</p>
+
+---
+
+<h3 align="center">Featured Projects</h3>
+
+**[👾 CHIP-8 Emulator](https://github.com/CJandoB/Chip8)**  
+A complete CHIP-8 virtual machine emulator written in C from scratch. It implements the Fetch-Decode-Execute cycle, memory management, and graphics rendering, demonstrating solid pointer manipulation and bitwise operations.
+
+---
+
+<h3 align="center">More of me</h3>
+
+<p align="center">
+  <a href="[ENLACE_A_TU_LINKEDIN](https://www.linkedin.com/in/alejandro-corona-9205713a4/)">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
