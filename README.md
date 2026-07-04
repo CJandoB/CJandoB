@@ -24,7 +24,7 @@ A complete CHIP-8 virtual machine emulator written in C from scratch. It impleme
 <h3 align="center">More of me</h3>
 
 <p align="center">
-  <a href="[ENLACE_A_TU_LINKEDIN](https://www.linkedin.com/in/alejandro-corona-9205713a4/)">
+  <a href="https://www.linkedin.com/in/alejandro-corona-9205713a4/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
