@@ -2,7 +2,7 @@
 
 ---
 
-I am a Computer Engineer at Universidad Politécnica de Madrid (UPM) - ETSISI. I'm Passionate about embedded systems, and computer architectures. Willing to learn more about technology!
+I am a Computer Engineer at Universidad Politécnica de Madrid (UPM) - ETSISI. I'm interested in embedded systems, and computer architectures. Willing to learn more about technology!
 
 ---
 
