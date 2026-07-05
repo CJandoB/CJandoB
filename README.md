@@ -19,7 +19,7 @@ I am a Computer Engineer at Universidad Politécnica de Madrid (UPM) - ETSISI. I
 **[👾 CHIP-8 Emulator](https://github.com/CJandoB/Chip8)**  
 A complete CHIP-8 virtual machine emulator written in C from scratch. It implements the Fetch-Decode-Execute cycle, memory management, and graphics rendering, demonstrating solid pointer manipulation and bitwise operations.
 
-**[Network Programming](https://github.com/CJandoB/Network_Programming)**
+**[Network Programming](https://github.com/CJandoB/Network_Programming)**  
 Currently diving into Beej's Guide to Network Programming to build a bidirectional, multi-client chat system in pure C.
 
 ---
