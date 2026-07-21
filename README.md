@@ -16,11 +16,14 @@ I am a Computer Engineer at Universidad Politécnica de Madrid (UPM) - ETSISI. I
 
 <h3 align="center">Featured Projects</h3>
 
-**[👾 CHIP-8 Emulator](https://github.com/CJandoB/Chip8)**  
+**[CHIP-8 Emulator](https://github.com/CJandoB/Chip8)**  
 A complete CHIP-8 virtual machine emulator written in C from scratch. It implements the Fetch-Decode-Execute cycle, memory management, and graphics rendering, demonstrating solid pointer manipulation and bitwise operations.
 
 **[Network Programming](https://github.com/CJandoB/Network_Programming)**  
 Currently diving into Beej's Guide to Network Programming to build a bidirectional, multi-client chat system in pure C.
+
+**[FreeRTOS](https://github.com/CJandoB/FreeRTOS)**  
+A practical exploration of FreeRTOS on a STM32F401CC. Using Digi-Key’s tutorial series as a baseline, this project showcases low-level implementations of deterministic scheduling, safe memory management, and bidirectional inter-task communication. Actively updated as I deepen my knowledge of real-time embedded architectures.
 
 ---
 
